@@ -1,55 +1,55 @@
 ﻿GeoName,result_elec2020,vote_count_2020_vs_2016,result_elec_20years_6times,swing_states
-Alabama,republican,democrat,6,FALSE
-Alaska,republican,democrat,6,FALSE
-Arizona,democrat,democrat,4,FALSE
-Arkansas,republican,democrat,6,FALSE
-California,democrat,republican,-6,FALSE
-Colorado,democrat,democrat,-2,TRUE
-Connecticut,democrat,democrat,-6,FALSE
-Delaware,democrat,democrat,-6,FALSE
-District of Columbia,democrat,republican,-6,FALSE
-Florida,republican,republican,2,TRUE
-Georgia,democrat,democrat,4,FALSE
-Hawaii,democrat,republican,-6,FALSE
-Idaho,republican,democrat,6,FALSE
-Illinois,democrat,democrat,-6,FALSE
-Indiana,republican,democrat,4,FALSE
-Iowa,republican,democrat,0,TRUE
-Kansas,republican,democrat,6,FALSE
-Kentucky,republican,democrat,6,FALSE
-Louisiana,republican,democrat,6,FALSE
-Maine,democrat,democrat,-6,FALSE
-Maryland,democrat,democrat,-6,FALSE
-Massachusetts,democrat,democrat,-6,FALSE
-Michigan,democrat,democrat,-4,FALSE
-Minnesota,democrat,democrat,0,TRUE
-Mississippi,republican,democrat,6,FALSE
-Missouri,republican,democrat,6,FALSE
-Montana,republican,democrat,6,FALSE
-Nebraska,republican,democrat,6,FALSE
-Nevada,democrat,republican,-2,TRUE
-New Hampshire,democrat,democrat,-4,FALSE
-New Jersey,democrat,democrat,-6,FALSE
-New Mexico,democrat,democrat,-4,FALSE
-New York,democrat,republican,-6,FALSE
-North Carolina,republican,democrat,4,FALSE
-North Dakota,republican,democrat,6,FALSE
-Ohio,republican,democrat,2,TRUE
-Oklahoma,republican,democrat,6,FALSE
-Oregon,democrat,democrat,-6,FALSE
-Pennsylvania,democrat,democrat,-4,FALSE
-Rhode Island,democrat,democrat,-6,FALSE
-South Carolina,republican,democrat,6,FALSE
-South Dakota,republican,democrat,6,FALSE
-Tennessee,republican,democrat,6,FALSE
-Texas,republican,democrat,6,FALSE
-Utah,republican,democrat,6,FALSE
-Vermont,democrat,democrat,-6,FALSE
-Virginia,democrat,democrat,-2,TRUE
-Washington,democrat,democrat,-6,FALSE
-West Virginia,republican,democrat,6,FALSE
-Wisconsin,democrat,democrat,-4,FALSE
-Wyoming,republican,democrat,6,FALSE
+Alabama,republican,democrat,6,rep
+Alaska,republican,democrat,6,rep
+Arizona,democrat,democrat,4,rep
+Arkansas,republican,democrat,6,rep
+California,democrat,republican,-6,dem
+Colorado,democrat,democrat,-2,swing
+Connecticut,democrat,democrat,-6,dem
+Delaware,democrat,democrat,-6,dem
+District of Columbia,democrat,republican,-6,dem
+Florida,republican,republican,2,swing
+Georgia,democrat,democrat,4,rep
+Hawaii,democrat,republican,-6,dem
+Idaho,republican,democrat,6,rep
+Illinois,democrat,democrat,-6,dem
+Indiana,republican,democrat,4,rep
+Iowa,republican,democrat,0,swing
+Kansas,republican,democrat,6,rep
+Kentucky,republican,democrat,6,rep
+Louisiana,republican,democrat,6,rep
+Maine,democrat,democrat,-6,dem
+Maryland,democrat,democrat,-6,dem
+Massachusetts,democrat,democrat,-6,dem
+Michigan,democrat,democrat,-4,dem
+Minnesota,democrat,democrat,0,swing
+Mississippi,republican,democrat,6,rep
+Missouri,republican,democrat,6,rep
+Montana,republican,democrat,6,rep
+Nebraska,republican,democrat,6,rep
+Nevada,democrat,republican,-2,swing
+New Hampshire,democrat,democrat,-4,dem
+New Jersey,democrat,democrat,-6,dem
+New Mexico,democrat,democrat,-4,dem
+New York,democrat,republican,-6,dem
+North Carolina,republican,democrat,4,rep
+North Dakota,republican,democrat,6,rep
+Ohio,republican,democrat,2,swing
+Oklahoma,republican,democrat,6,rep
+Oregon,democrat,democrat,-6,dem
+Pennsylvania,democrat,democrat,-4,dem
+Rhode Island,democrat,democrat,-6,dem
+South Carolina,republican,democrat,6,rep
+South Dakota,republican,democrat,6,rep
+Tennessee,republican,democrat,6,rep
+Texas,republican,democrat,6,rep
+Utah,republican,democrat,6,rep
+Vermont,democrat,democrat,-6,dem
+Virginia,democrat,democrat,-2,swing
+Washington,democrat,democrat,-6,dem
+West Virginia,republican,democrat,6,rep
+Wisconsin,democrat,democrat,-4,dem
+Wyoming,republican,democrat,6,rep
 count dem,26,45,count swing,7
 ,,,,
 ,,,,
