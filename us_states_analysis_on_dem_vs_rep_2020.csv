@@ -1,58 +1,62 @@
-﻿GeoName,result_elec2016,result_elec2020,vote_count_2020_vs_2016,result_elec_20years_6times,swing_states,swing_focus
-Alabama,republican,republican,democrat,6,FALSE,not swing
-Alaska,republican,republican,democrat,6,FALSE,not swing
-Arizona,republican,democrat,democrat,4,FALSE,not swing
-Arkansas,republican,republican,democrat,6,FALSE,not swing
-California,democrat,democrat,republican,-6,FALSE,not swing
-Colorado,democrat,democrat,democrat,-2,TRUE,democrat
-Connecticut,democrat,democrat,democrat,-6,FALSE,not swing
-Delaware,democrat,democrat,democrat,-6,FALSE,not swing
-District of Columbia,democrat,democrat,republican,-6,FALSE,not swing
-Florida,republican,republican,republican,2,TRUE,republican
-Georgia,republican,democrat,democrat,4,FALSE,not swing
-Hawaii,democrat,democrat,republican,-6,FALSE,not swing
-Idaho,republican,republican,democrat,6,FALSE,not swing
-Illinois,democrat,democrat,democrat,-6,FALSE,not swing
-Indiana,republican,republican,democrat,4,FALSE,not swing
-Iowa,republican,republican,democrat,0,TRUE,democrat
-Kansas,republican,republican,democrat,6,FALSE,not swing
-Kentucky,republican,republican,democrat,6,FALSE,not swing
-Louisiana,republican,republican,democrat,6,FALSE,not swing
-Maine,democrat,democrat,democrat,-6,FALSE,not swing
-Maryland,democrat,democrat,democrat,-6,FALSE,not swing
-Massachusetts,democrat,democrat,democrat,-6,FALSE,not swing
-Michigan,republican,democrat,democrat,-4,FALSE,not swing
-Minnesota,democrat,democrat,democrat,0,TRUE,democrat
-Mississippi,republican,republican,democrat,6,FALSE,not swing
-Missouri,republican,republican,democrat,6,FALSE,not swing
-Montana,republican,republican,democrat,6,FALSE,not swing
-Nebraska,republican,republican,democrat,6,FALSE,not swing
-Nevada,democrat,democrat,republican,-2,TRUE,republican
-New Hampshire,democrat,democrat,democrat,-4,FALSE,not swing
-New Jersey,democrat,democrat,democrat,-6,FALSE,not swing
-New Mexico,democrat,democrat,democrat,-4,FALSE,not swing
-New York,democrat,democrat,republican,-6,FALSE,not swing
-North Carolina,republican,republican,democrat,4,FALSE,not swing
-North Dakota,republican,republican,democrat,6,FALSE,not swing
-Ohio,republican,republican,democrat,2,TRUE,democrat
-Oklahoma,republican,republican,democrat,6,FALSE,not swing
-Oregon,democrat,democrat,democrat,-6,FALSE,not swing
-Pennsylvania,republican,democrat,democrat,-4,FALSE,not swing
-Rhode Island,democrat,democrat,democrat,-6,FALSE,not swing
-South Carolina,republican,republican,democrat,6,FALSE,not swing
-South Dakota,republican,republican,democrat,6,FALSE,not swing
-Tennessee,republican,republican,democrat,6,FALSE,not swing
-Texas,republican,republican,democrat,6,FALSE,not swing
-Utah,republican,republican,democrat,6,FALSE,not swing
-Vermont,democrat,democrat,democrat,-6,FALSE,not swing
-Virginia,democrat,democrat,democrat,-2,TRUE,democrat
-Washington,democrat,democrat,democrat,-6,FALSE,not swing
-West Virginia,republican,republican,democrat,6,FALSE,not swing
-Wisconsin,republican,democrat,democrat,-4,FALSE,not swing
-Wyoming,republican,republican,democrat,6,FALSE,not swing
-count dem,,26,45,count swing,7,45
-,,,,,,
-,,,,,,
-<= swing_states คิดจากผลเลือกตั้งค 6 ครั้งย้อนหลัง (2000-2020) ถ้าผลแพ้ชนะห่างน้อยกว่า 4 ต่อ 2 จาก 6 ครั้งถือว่าเป็น swing state,,,,,,
-<= result_elec20years_6times ค่าบวกคือ Rep ชนะเยอะกว่าในรัฐนั้น คิดจากจำนวนครั้งที่ Rep ชนะลบด้วยจำนวนครั้งที่ Dem ชนะ,,,,,,
-<= vote_count_2020_vs_2016 คิดจากสัดส่วนคะแนนแปลงเป็นเปอร์เซ็นของสองพรรคว่าพรรคไหนปี 2020 ได้เปอร์เซ็นโหวตมากกว่าเทียบกับปี 2016,,,,,,
+﻿GeoName,result_elec2016,result_elec2020,vote_count_2020_vs_2016,result_elec_20years_6times,swing_states,swing_focus,flip_focus
+Alabama,republican,republican,democrat,6,FALSE,not swing,not flip
+Alaska,republican,republican,democrat,6,FALSE,not swing,not flip
+Arizona,republican,democrat,democrat,4,FALSE,not swing,democrat
+Arkansas,republican,republican,democrat,6,FALSE,not swing,not flip
+California,democrat,democrat,republican,-6,FALSE,not swing,not flip
+Colorado,democrat,democrat,democrat,-2,TRUE,democrat,not flip
+Connecticut,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+Delaware,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+District of Columbia,democrat,democrat,republican,-6,FALSE,not swing,not flip
+Florida,republican,republican,republican,2,TRUE,republican,not flip
+Georgia,republican,democrat,democrat,4,FALSE,not swing,democrat
+Hawaii,democrat,democrat,republican,-6,FALSE,not swing,not flip
+Idaho,republican,republican,democrat,6,FALSE,not swing,not flip
+Illinois,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+Indiana,republican,republican,democrat,4,FALSE,not swing,not flip
+Iowa,republican,republican,democrat,0,TRUE,republican,not flip
+Kansas,republican,republican,democrat,6,FALSE,not swing,not flip
+Kentucky,republican,republican,democrat,6,FALSE,not swing,not flip
+Louisiana,republican,republican,democrat,6,FALSE,not swing,not flip
+Maine,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+Maryland,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+Massachusetts,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+Michigan,republican,democrat,democrat,-4,FALSE,not swing,democrat
+Minnesota,democrat,democrat,democrat,0,TRUE,democrat,not flip
+Mississippi,republican,republican,democrat,6,FALSE,not swing,not flip
+Missouri,republican,republican,democrat,6,FALSE,not swing,not flip
+Montana,republican,republican,democrat,6,FALSE,not swing,not flip
+Nebraska,republican,republican,democrat,6,FALSE,not swing,not flip
+Nevada,democrat,democrat,republican,-2,TRUE,democrat,not flip
+New Hampshire,democrat,democrat,democrat,-4,FALSE,not swing,not flip
+New Jersey,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+New Mexico,democrat,democrat,democrat,-4,FALSE,not swing,not flip
+New York,democrat,democrat,republican,-6,FALSE,not swing,not flip
+North Carolina,republican,republican,democrat,4,FALSE,not swing,not flip
+North Dakota,republican,republican,democrat,6,FALSE,not swing,not flip
+Ohio,republican,republican,democrat,2,TRUE,republican,not flip
+Oklahoma,republican,republican,democrat,6,FALSE,not swing,not flip
+Oregon,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+Pennsylvania,republican,democrat,democrat,-4,FALSE,not swing,democrat
+Rhode Island,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+South Carolina,republican,republican,democrat,6,FALSE,not swing,not flip
+South Dakota,republican,republican,democrat,6,FALSE,not swing,not flip
+Tennessee,republican,republican,democrat,6,FALSE,not swing,not flip
+Texas,republican,republican,democrat,6,FALSE,not swing,not flip
+Utah,republican,republican,democrat,6,FALSE,not swing,not flip
+Vermont,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+Virginia,democrat,democrat,democrat,-2,TRUE,democrat,not flip
+Washington,democrat,democrat,democrat,-6,FALSE,not swing,not flip
+West Virginia,republican,republican,democrat,6,FALSE,not swing,not flip
+Wisconsin,republican,democrat,democrat,-4,FALSE,not swing,democrat
+Wyoming,republican,democrat,democrat,6,FALSE,not swing,democrat
+count dem,21,27,,count swing,7,-,-
+count rep,30,24,,,count dem,4,6
+,,,,,count rep,3,0
+,,,,,,,
+,,,,,,,
+# vote_count_2020_vs_2016 คิดจากสัดส่วนคะแนนแปลงเป็นเปอร์เซ็นของสองพรรคว่าพรรคไหนปี 2020 ได้เปอร์เซ็นโหวตมากกว่าเทียบกับปี 2016,,,,,,,
+# result_elec20years_6times ค่าบวกคือ Rep ชนะเยอะกว่าในรัฐนั้น คิดจากจำนวนครั้งที่ Rep ชนะลบด้วยจำนวนครั้งที่ Dem ชนะ,,,,,,,
+# swing_states คิดจากผลเลือกตั้ง 6 ครั้งย้อนหลัง (2000-2020) ถ้าผลแพ้ชนะห่างน้อยกว่าหรือเท่ากับ 4 ต่อ 2 จาก 6 ครั้งถือว่าเป็น swing state,,,,,,,
+# swing_focus สนในเฉพาะรัฐที่เป็น swing states และดูว่ารัฐเหล่านั้นเลือกพรรคไหนในการเลือกตั้งปี 2020,,,,,,,
+# flip_focus สนใจเฉพาะรัฐที่ผลการเลือกตั้งปี่ 2020 ไม่ตรงกับผลปี 2016 และดูว่ารัฐเหล่านั้นเลือกพรรคไหนในการเลือกตั้งปี 2020,,,,,,,
